@@ -13,7 +13,7 @@
 [全球开放数据应用创新大赛，人岗精准匹配模型](https://github.com/qhykwsw/SODIC-2021-Job_Match)(**Rank 7 / 602**)
 [全球开放数据应用创新大赛，城市风场数据空间降尺度模拟分析](https://github.com/qhykwsw/SODIC-2021-Wind_field)(**Rank 8 /137**)
 #### 2021/04/16
-[机器学习在债券定价中的应用](https://github.com/qhykwsw/AIWIN-2021-Bond)(**Rank 6 / 268**)
+[机器学习在债券定价中的应用](https://github.com/qhykwsw/AIWIN-2021-Bond)(**Rank 4 / 268**)
 #### 2021/04/08
 [中兴捧月神算师算法精英挑战赛-迪杰斯特拉派](https://github.com/qhykwsw/ZTE-2021-Dijkstra)(**Rank 5 / 321**)
 #### 2021/02/20
